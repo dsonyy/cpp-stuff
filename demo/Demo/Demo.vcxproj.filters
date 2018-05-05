@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="src">
+      <UniqueIdentifier>{43506f44-7c16-4a72-84c9-fa48173b6a2e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="old">
+      <UniqueIdentifier>{9bdddedd-723b-4313-a9fd-80c7c4934c09}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Palette.h">
+      <Filter>old</Filter>
+    </ClInclude>
+    <ClInclude Include="WinPalette.h">
+      <Filter>old</Filter>
+    </ClInclude>
+    <ClInclude Include="Console.h">
+      <Filter>old</Filter>
+    </ClInclude>
+    <ClInclude Include="WinConsole.h">
+      <Filter>old</Filter>
+    </ClInclude>
+    <ClInclude Include="WinStringEx.h">
+      <Filter>old</Filter>
+    </ClInclude>
+    <ClInclude Include="SingleColorString.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="MultiColorString.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="CharEx.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="WriteController.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="StringEx.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="PaletteController.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="BasicPalette.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="Color.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="Palette16.h">
+      <Filter>src</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="WinPalette.cpp">
+      <Filter>old</Filter>
+    </ClCompile>
+    <ClCompile Include="WinConsole.cpp">
+      <Filter>old</Filter>
+    </ClCompile>
+    <ClCompile Include="WinStringEx.cpp">
+      <Filter>old</Filter>
+    </ClCompile>
+    <ClCompile Include="Palette.cpp">
+      <Filter>old</Filter>
+    </ClCompile>
+    <ClCompile Include="Main.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="SingleColorString.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="MultiColorString.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="Palette16.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
