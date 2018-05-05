@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1463151120 source:c:\users\szymon komputer\desktop\sztuczne ognie\main.cpp
+	<cstdlib>
+	<time.h>
+	<curses.h>
+	<thread>
+	<windows.h>
+
