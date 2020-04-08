@@ -1,7 +1,7 @@
 // path.cpp
 // the prototype of object that describes paths
 
-#include "console.h"
+#include <iostream>
 #include "map.h"
 
 #ifndef _H_PATH
@@ -34,7 +34,7 @@ inline Point Path::GetPoint(size_t point) const
 	}
 	else
 	{
-		error << "Index to the point in path is too large.\n"; // TODO: add exceptions
+		std::cerr << "Index to the point in path is too large.\n"; // TODO: add exceptions
 		return { 0, 0 };
 	}
 }

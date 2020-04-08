@@ -1,7 +1,7 @@
 // path.cpp
 // the object that describes paths
 
-#include "console.h"
+#include <iostream>
 #include "path.h"
 
 
@@ -16,7 +16,7 @@ void Path::AddPoint(Point x)
 {
 	if (path_.size() == 0)
 	{
-		error << "Path is empty\n"; // TODO: make an exception
+		std::cerr << "Path is empty\n"; // TODO: make an exception
 		return;
 	}
 	Connect(path_[path_.size() - 1], x, false);

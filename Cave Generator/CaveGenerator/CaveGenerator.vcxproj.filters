@@ -42,9 +42,6 @@
     <ClCompile Include="level-gen.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="file-export.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="map.h">
@@ -59,9 +56,6 @@
     <ClInclude Include="path.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="console.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="tunnel.h">
       <Filter>Header Files</Filter>
     </ClInclude>
@@ -72,9 +66,6 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="level-gen.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="file-export.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

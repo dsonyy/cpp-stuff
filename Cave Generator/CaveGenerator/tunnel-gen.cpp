@@ -1,17 +1,13 @@
-
+#include <iostream>
 #include <vector>
 #include "tunnel-gen.h"
 #include "tunnel.h"
 #include "path.h"
-#include "console.h"
 
 TunnelGenerator::TunnelGenerator()
 {
-	info << "Initializing tunnel generator components\n";
-	// TODO: import
-
-	common_points_level_ = 5; //!=0
-	fill_islands_ = false;
+	common_points_level_ = 10; //!=0
+	fill_islands_ = true;
 }
 
 Tunnel TunnelGenerator::Generate(

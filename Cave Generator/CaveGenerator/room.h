@@ -4,7 +4,6 @@
 #include <vector>
 #include "map.h"
 
-
 enum RoomSide
 {
 	top_and_top_right,
@@ -14,8 +13,6 @@ enum RoomSide
 
 	total_room_sides
 };
-
-
 
 class Room : public Map
 {
@@ -47,8 +44,6 @@ private:
 	friend class RoomGenerator;
 };
 
-
-
 //============================= CENTER POINTS =============================
 inline const std::vector<MapPoint> & Room::GetCenterPoints() const
 {
@@ -70,7 +65,6 @@ inline MapPoint Room::GetRandomCenterPoint() const
 {
 	return center_points_[rand() % center_points_.size()];
 }
-
 
 inline void	Room::SetCenterPoints(const std::vector<MapPoint> & other_center_points)
 {

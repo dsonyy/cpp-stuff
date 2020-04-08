@@ -1,5 +1,5 @@
 #include <vector>
-#include "console.h"
+#include <iostream>
 #include "map.h"
 #include "level-gen.h"
 #include "room-gen.h"
@@ -7,7 +7,6 @@
 
 LevelGenerator::LevelGenerator(RoomGenerator & room_gen, TunnelGenerator & tun_gen)
 {
-	info << "Initializing level generator components\n";
 	min_rooms_num_ = 100;
 	max_rooms_num_ = 100;
 

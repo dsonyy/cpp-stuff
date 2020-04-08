@@ -4,8 +4,6 @@
 
 RoomGenerator::RoomGenerator()
 {
-	info << "Initializing room generator components\n";
-
 	effective_room_edge_ = 16; //16
 	min_offset_ = 3;
 
