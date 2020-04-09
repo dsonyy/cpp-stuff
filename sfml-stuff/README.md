@@ -1,0 +1,1 @@
+cl main.cpp /std:c++17 /I SFML/include /link /LIBPATH:SFML/lib sfml-graphics.lib sfml-window.lib sfml-system.lib opengl32.lib freetype.lib winmm.lib gdi32.lib && main.exe
