@@ -21,3 +21,7 @@ C++ was the first programming language which I started to learn. I uploaded here
   - *Higher lower*,
   - *Name generator*,
   - *Temperature converter*.
+
+<p align="center">
+
+</p>

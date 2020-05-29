@@ -18,9 +18,16 @@ int main(int argc, char ** argv)
 	bool room_only = false;
 	unsigned seed = 1;
 	
+	if (argc == 1) {
+		WriteHelp();
+		return 0;
+	}
 	for (int i = 1; i < argc; i++) {
 		if (std::strcmp(argv[i], "-r") == 0 || std::strcmp(argv[i], "--room") == 0) {
 			room_only = true;
+		}
+		else if (std::strcmp(argv[i], "-l") == 0 || std::strcmp(argv[i], "--level") == 0) {
+
 		}
 		else if (std::strcmp(argv[i], "-s") == 0 || std::strcmp(argv[i], "--seed") == 0) {
 			if (++i >= argc) {
