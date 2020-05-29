@@ -1,6 +1,6 @@
 # C/C++ stuff
 
-C++ was the first programming language which I started to learn. I uploaded here some of my old projects and exercises, which survived on my computer. I thing most of them were created in 2016-2018 but a few of them were also reviewed and fixed by me later.
+C++ was the first programming language which I started to learn. I uploaded here some of my old projects and exercises, which survived on my computer. I think most of them were created in 2016-2018 and a few were also reviewed and fixed by me later.
 
 ## Projects
 
@@ -22,6 +22,15 @@ C++ was the first programming language which I started to learn. I uploaded here
   - *Name generator*,
   - *Temperature converter*.
 
-<p align="center">
+## Gallery
 
+<p align="center">
+  <img width="800" src="https://raw.githubusercontent.com/dsonyy/cpp-learning/screenshots/astro.png">
+  <img width="800" src="https://raw.githubusercontent.com/dsonyy/cpp-learning/screenshots/left.png">
+  <img src="https://raw.githubusercontent.com/dsonyy/cpp-learning/screenshots/cli16.png">
+  <img src="https://raw.githubusercontent.com/dsonyy/cpp-learning/screenshots/cli17.png">
+  <img src="https://raw.githubusercontent.com/dsonyy/cpp-learning/screenshots/cave.png">
+  <img src="https://raw.githubusercontent.com/dsonyy/cpp-learning/screenshots/cli2.png">
+  <img src="https://raw.githubusercontent.com/dsonyy/cpp-learning/screenshots/cli3.png">
+  <img src="https://raw.githubusercontent.com/dsonyy/cpp-learning/screenshots/cli4.png">
 </p>
