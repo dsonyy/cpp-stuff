@@ -1,95 +1,23 @@
-## C++ learning
+# C/C++ stuff
 
-# Demo
+C++ was the first programming language which I started to learn. I uploaded here some of my old projects and exercises, which survived on my computer. I thing most of them were created in 2016-2018 but a few of them were also reviewed and fixed by me later.
 
-<p align="center">
-  <img src="_preview/preview (1).png" />
-</p>
+## Projects
 
-<p align="center">
-  <img src="_preview/preview (2).png" />
-</p>
-
-<p align="center">
-  <img src="_preview/preview (3).png" />
-</p>
-
-<p align="center">
-  <img src="_preview/preview (4).png" />
-</p>
-
-<p align="center">
-  <img src="_preview/preview (5).png" />
-</p>
-
-<p align="center">
-  <img src="_preview/preview (6).png" />
-</p>
-
-<p align="center">
-  <img src="_preview/preview (7).png" />
-</p>
-
-<p align="center">
-  <img src="_preview/preview (8).png" />
-</p>
-
-<p align="center">
-  <img src="_preview/preview (9).png" />
-</p>
-
-<p align="center">
-  <img src="_preview/preview (10).png" />
-</p>
-
-<p align="center">
-  <img src="_preview/preview (11).png" />
-</p>
-
-<p align="center">
-  <img src="_preview/preview (12).png" />
-</p>
-
-<p align="center">
-  <img src="_preview/preview (13).png" />
-</p>
-
-<p align="center">
-  <img src="_preview/preview (14).png" />
-</p>
-
-<p align="center">
-  <img src="_preview/preview (15).png" />
-</p>
-
-<p align="center">
-  <img src="_preview/preview (16).png" />
-</p>
-
-<p align="center">
-  <img src="_preview/preview (17).png" />
-</p>
-
-<p align="center">
-  <img src="_preview/preview (18).png" />
-</p>
-
-<p align="center">
-  <img src="_preview/preview (19).png" />
-</p>
-
-<p align="center">
-  <img src="_preview/preview (20).png" />
-</p>
-
-<p align="center">
-  <img src="_preview/preview (21).png" />
-</p>
-
-<p align="center">
-  <img src="_preview/preview (22).png" />
-</p>
-
-<p align="center">
-  <img src="_preview/preview (0).bmp" />
-</p>
+- **Stephen Prata - C++ Primer Plus [PL Edition]** - my completed exercises and examples from the book.
+- **Command line** projects:
+  - *Roguelike cave generator*,
+  - *Mathematic clock*,
+  - *Sokoban*,
+  - miscellaneous (coloring console, arrows support, GUIs),
+- **SFML** projects:
+  - *Snake*,
+  - *Not Only Circles* - renders circle from 1px height image,
+- **Allegro** projects:
+  - *Astro*,
+  - *Left Side Attack*,
+  - miscellaneous (user input, rendering primitives)
+- miscellaneous:
+  - *Higher lower*,
+  - *Name generator*,
+  - *Temperature converter*.
