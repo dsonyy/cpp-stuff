@@ -6,6 +6,7 @@ C++ was the first programming language which I started to learn. I uploaded here
 
 - **Stephen Prata - C++ Primer Plus [PL Edition]** - my completed exercises and examples from the book.
 - **Command line** projects:
+  - *Self-playing checkers*,
   - *Roguelike cave generator*,
   - *Mathematic clock*,
   - *Sokoban*,
