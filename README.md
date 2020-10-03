@@ -1,6 +1,6 @@
 # C/C++ stuff
 
-C++ was the first programming language which I started to learn. I uploaded here some of my old projects and exercises, which survived on my computer. I think most of them were created in 2016-2018. A few were also reviewed and fixed by me later.
+C++ was the first programming language which I started to learn. I uploaded here some of my old projects and exercises which survived on my computer. I think most of them were created in 2016-2018. A few were also reviewed and fixed by me later.
 
 ## Projects
 
