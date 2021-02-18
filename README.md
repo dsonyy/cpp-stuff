@@ -5,19 +5,28 @@ C++ was the first programming language which I started to learn. I uploaded here
 ## Projects
 
 - **Stephen Prata - C++ Primer Plus [PL Edition]** - my completed exercises and examples from the book.
+
+  
+
+  <img src="stephen-prata-book/book.jpg" width=200>
+
 - **Command line** projects:
+  
   - *Self-playing checkers*,
   - *Roguelike cave generator*,
   - *Mathematic clock*,
   - *Sokoban*,
   - miscellaneous (coloring console, arrows support, GUIs),
+  
 - **SFML** projects:
   - *Snake*,
   - *Not Only Circles* - renders circle from 1px height image,
+  
 - **Allegro** projects:
   - *Astro*,
   - *Left Side Attack*,
   - miscellaneous (user input, rendering primitives)
+  
 - miscellaneous:
   - *Higher lower*,
   - *Name generator*,
