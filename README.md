@@ -2,6 +2,10 @@
 
 ## Recent projects
 
+- **Gravity** - experiments with gravity and forces. [Youtube video](https://www.youtube.com/watch?v=3KXJqj0l5hY).
+
+  Requires SFML 2.
+
 - **Angle visualization** - a small program which visualizes quaternion rotations in real time. It waits for a stream of floating point numbers on *stdin*. Each group of 4 floats represents a single quaternion (*qw, qx, qy, qz*). The program creates an additional thread which renders OpenGL window with a box, which will be rotated if new input is received. 
 
   Requires SFML 2. 
