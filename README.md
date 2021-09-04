@@ -2,7 +2,7 @@
 
 ## Recent projects
 
-- **Angle visualization** - a small program which visualizes quaternion rotations in real time. It waits for a stream of floating point numbers on *stdin*. Each group of 4 floats represent a quaternion (*qw, qx, qy, qz*). The program creates an additional thread which renders OpenGL window with rotating box. 
+- **Angle visualization** - a small program which visualizes quaternion rotations in real time. It waits for a stream of floating point numbers on *stdin*. Each group of 4 floats represents a single quaternion (*qw, qx, qy, qz*). The program creates an additional thread which renders OpenGL window with a box, which will be rotated if new input is received. 
 
   Requires SFML 2. 
 
