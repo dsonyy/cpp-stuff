@@ -12,6 +12,15 @@
 
 <img width=300 src="docs/angle.png">
 
+- **IO Benchmark**:
+  ```
+  1) scanf:                                   648147us
+  2) out-of-the-box cin:                      2640799us
+  3) getline:                                 1873624us
+  4) sync_with_stdio(false) cin:              1519344us
+  5) sync_with_stdio(false) + cin.tie(0) cin: 1468933us
+  ```
+
 ## Old projects
 
 C++ was the first programming language which I started to learn. I uploaded here some of my old projects and exercises which survived on my computer. I think most of them were created in 2016-2018. A few were also reviewed and fixed by me later.
