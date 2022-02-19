@@ -10,7 +10,7 @@
 
   Requires SFML 2. 
 
-<img width=300 src="docs/angle.png">
+  <img width=300 src="docs/angle.png">
 
 - **IO Benchmark**:
   ```
