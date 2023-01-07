@@ -2,6 +2,10 @@
 
 ## Recent projects
 
+- **Fire** - Oldskool fire effect in SFML:
+
+  <img src="fire/screenshots/1673106951.png" width=300> <img src="fire/screenshots/1673106956.png" width=300>
+
 - **Fractal Trees** - just playing with fractals, recursion and SFML:
 
   <img src="fractal-trees/gallery/1673055665.png" width=300><img src="fractal-trees/gallery/1673055776.png" width=300><img src="fractal-trees/gallery/1673055846.png" width=300>

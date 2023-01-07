@@ -1,3 +1,5 @@
+*.o
+
 SFML/
 *.dll
 *.obj
