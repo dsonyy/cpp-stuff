@@ -3,6 +3,7 @@
 ## Recent projects
 
 - **Fractal Trees**
+
   <img src="fractal-trees/gallery/1673055665.png" width=300><img src="fractal-trees/gallery/1673055776.png" width=300><img src="fractal-trees/gallery/1673055846.png" width=300>
 
 - **Gravity** - experiments with gravity and forces. [Youtube video](https://www.youtube.com/watch?v=3KXJqj0l5hY).
