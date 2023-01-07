@@ -2,13 +2,16 @@
 
 ## Recent projects
 
+- **Fractal Trees**
+  <img src="fractal-trees/gallery/1673055665.png" width=300><img src="fractal-trees/gallery/1673055776.png" width=300><img src="fractal-trees/gallery/1673055846.png" width=300>
+
 - **Gravity** - experiments with gravity and forces. [Youtube video](https://www.youtube.com/watch?v=3KXJqj0l5hY).
 
   Requires SFML 2.
 
-- **Angle visualization** - a small program which visualizes quaternion rotations in real time. It waits for a stream of floating point numbers on *stdin*. Each group of 4 floats represents a single quaternion (*qw, qx, qy, qz*). The program creates an additional thread which renders OpenGL window with a box, which will be rotated if new input is received. 
+- **Angle visualization** - a small program which visualizes quaternion rotations in real time. It waits for a stream of floating point numbers on _stdin_. Each group of 4 floats represents a single quaternion (_qw, qx, qy, qz_). The program creates an additional thread which renders OpenGL window with a box, which will be rotated if new input is received.
 
-  Requires SFML 2. 
+  Requires SFML 2.
 
   <img width=300 src="docs/angle.png">
 
@@ -27,31 +30,27 @@ C++ was the first programming language which I started to learn. I uploaded here
 
 - **Stephen Prata - C++ Primer Plus [Polish Edition]** - my completed exercises and examples from the book.
 
-  
-
   <img src="stephen-prata-book/book.jpg" width=200>
 
 - **Command line** projects:
-  
-  - *Self-playing checkers*,
-  - *Roguelike cave generator*,
-  - *Mathematic clock*,
-  - *Sokoban*,
+
+  - _Self-playing checkers_,
+  - _Roguelike cave generator_,
+  - _Mathematic clock_,
+  - _Sokoban_,
   - miscellaneous (coloring console, arrows support, GUIs),
-  
+
 - **SFML** projects:
-  - *Snake*,
-  - *Not Only Circles* - renders circle from 1px height image,
-  
+  - _Snake_,
+  - _Not Only Circles_ - renders circle from 1px height image,
 - **Allegro** projects:
-  - *Astro*,
-  - *Left Side Attack*,
+  - _Astro_,
+  - _Left Side Attack_,
   - miscellaneous (user input, rendering primitives)
-  
 - miscellaneous:
-  - *Higher lower*,
-  - *Name generator*,
-  - *Temperature converter*.
+  - _Higher lower_,
+  - _Name generator_,
+  - _Temperature converter_.
 
 ### Gallery
 
