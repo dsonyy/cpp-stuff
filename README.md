@@ -2,10 +2,10 @@
 
 ## Recent projects
 
-- **Fractal Trees**
+- **Fractal Trees** - just playing with fractals, recursion and SFML:
   <img src="fractal-trees/gallery/1673055665.png" width=300><img src="fractal-trees/gallery/1673055776.png" width=300><img src="fractal-trees/gallery/1673055846.png" width=300>
 
-- **Gravity** - experiments with gravity and forces. [Youtube video](https://www.youtube.com/watch?v=3KXJqj0l5hY).
+- **Gravity** - experiments with gravity and forces. [Youtube video](https://www.youtube.com/watch?v=3KXJqj0l5hY). Collisions are not implemented because I'm too lazy.
 
   Requires SFML 2.
 
@@ -15,7 +15,8 @@
 
   <img width=300 src="docs/angle.png">
 
-- **IO Benchmark**:
+- **IO Benchmark** - results:
+
   ```
   1) scanf:                                   648147us
   2) out-of-the-box cin:                      2640799us
@@ -23,6 +24,8 @@
   4) sync_with_stdio(false) cin:              1519344us
   5) sync_with_stdio(false) + cin.tie(0) cin: 1468933us
   ```
+
+- **Yet Another Sokoban** - can be found in `sokoban` directory.
 
 ## Old projects
 
